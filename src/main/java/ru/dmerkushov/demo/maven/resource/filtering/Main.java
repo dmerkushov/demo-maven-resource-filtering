@@ -1,4 +1,4 @@
-package ru.dmerkushov.test.maven.resource.filtering;
+package ru.dmerkushov.demo.maven.resource.filtering;
 
 import java.io.InputStream;
 import java.util.Properties;

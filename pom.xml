@@ -30,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ru.dmerkushov.test.maven.resource.filtering.Main</mainClass>
+                            <mainClass>ru.dmerkushov.demo.maven.resource.filtering.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
