@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.dmerkushov</groupId>
-    <artifactId>test-maven-resource-filtering</artifactId>
+    <artifactId>demo-maven-resource-filtering</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
